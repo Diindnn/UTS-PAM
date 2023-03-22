@@ -1,7 +1,7 @@
 # UTS-PAM (movieApp)
 
 ### Description
-movieApp adalah sebuah aplikasi yang memungkinkan pengguna untuk mencari informasi tentang film.
+movieApp adalah sebuah aplikasi yang memungkinkan pengguna untuk mencari informasi tentang film yang sedang populer
 
 ### Dependencies
 
@@ -66,7 +66,7 @@ Download the app from the link that is given on the terminal.
 <img src="./assets/HomeScreen(2).jpeg" width=200>
 <img src="./assets/DetailScreen(1).jpeg" width=200>
 <img src="./assets/DetailScreen(2).jpeg" width=200>
-<img src="./assets/ProfileScreen.jpeg" width=200>
+<img src="./assets/ProfilScreen.jpeg" width=200>
 
 
 ## Author
