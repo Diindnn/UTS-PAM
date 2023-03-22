@@ -1,3 +1,6 @@
+## Author
+Dini Safitri - 120140165
+
 # UTS-PAM (movieApp)
 
 ### Description
@@ -59,7 +62,7 @@ expo build:android
 Download the app from the link that is given on the terminal.
 ```
 
-## Screenshot
+## Screenshoot
 
 <img src="./assets/HomeScreen(1).jpeg" width=200>
 <img src="./assets/HomeScreen(2).jpeg" width=200>
@@ -76,7 +79,5 @@ Download the app from the link that is given on the terminal.
 - Setelah berhasil membuat API key, TMDb akan menampilkan API key tersebut di halaman tersebut dan akan mengirimkan API key tersebut melalui email
 - Gunakan API key tersebut untuk mengakses layanan API TMDb.
 
-## Author
 
-Dini Safitri - 120140165
 
