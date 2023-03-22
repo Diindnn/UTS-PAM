@@ -64,15 +64,15 @@ Download the app from the link that is given on the terminal.
 ```
 
 ## Screenshoot
-## Halaman Utama 1
+Halaman Utama 1
 <img src="./assets/HomeScreen(1).jpeg" width=200>
-## Halaman Utama 2
+Halaman Utama 2
 <img src="./assets/HomeScreen(2).jpeg" width=200>
-## Halaman Detail 1
+Halaman Detail 1
 <img src="./assets/DetailScreen(1).jpeg" width=200>
-## Halaman Detail 2
+Halaman Detail 2
 <img src="./assets/DetailScreen(2).jpeg" width=200>
-## Halaman Profil
+Halaman Profil
 <img src="./assets/ProfilScreen.jpeg" width=200>
 
 ### Cara mendapatkan API Key di TMBd untuk aplikasi ini
