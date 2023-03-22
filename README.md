@@ -68,6 +68,14 @@ Download the app from the link that is given on the terminal.
 <img src="./assets/DetailScreen(2).jpeg" width=200>
 <img src="./assets/ProfilScreen.jpeg" width=200>
 
+2. Cara mendapatkan API Key di TMBd untuk aplikasi ini
+Buat akun di situs web TMDb (https://www.themoviedb.org/signup).
+Setelah berhasil login, kunjungi halaman https://www.themoviedb.org/settings/api untuk mendapatkan API key.
+Klik tombol "Create" untuk membuat API key baru.
+Isi formulir untuk memilih jenis API key yang ingin Anda buat (Developer atau Commercial), beri nama pada API key Anda, dan berikan deskripsi tentang penggunaan API key tersebut.
+Setelah berhasil membuat API key, TMDb akan menampilkan API key tersebut di halaman tersebut dan akan mengirimkan API key tersebut melalui email.
+Gunakan API key tersebut untuk mengakses layanan API TMDb.
+
 
 ## Author
 
