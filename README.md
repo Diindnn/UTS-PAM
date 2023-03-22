@@ -1,7 +1,8 @@
+# UTS-PAM (movieApp)
+
 ## Author
 Dini Safitri - 120140165
-
-# UTS-PAM (movieApp)
+Kelas : RB
 
 ### Description
 movieApp adalah sebuah aplikasi yang memungkinkan pengguna untuk mencari informasi tentang film yang sedang populer
